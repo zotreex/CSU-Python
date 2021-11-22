@@ -11,9 +11,7 @@ def readfileonstart():
         count = linesplit[2]
         size = linesplit[3]
         price = linesplit[4]
-        test.update({
-            "b"
-        })
+        test.update()
 
 while True:
     input1 = str(input('>'))
